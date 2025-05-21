@@ -29,8 +29,8 @@
 
 	mail_goodies = list(
 		/obj/item/reagent_containers/cup/bottle/formaldehyde = 30,
-		/obj/item/storage/box/bodybags = 15,
-		/obj/item/healthanalyzer = 10,
+		//obj/item/storage/box/bodybags = 15,
+		//obj/item/healthanalyzer = 10,
 		/obj/item/shovel/serrated/dull = 5,
 		/obj/effect/spawner/random/medical/organs = 5,
 		/obj/item/reagent_containers/cup/organ_jar/brain_in_a_jar = 5,
